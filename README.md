@@ -17,11 +17,11 @@ Dikerjakan untuk mata kuliah **Pengolahan Citra Digital**.
 - `outputs/`  
   > Folder hasil citra, histogram, dan file PowerPoint (`.pptx`).
 
+## 🔧 Install & Menjalankan
 
-## 🔧 Install Dependencies
-
-Clone repository:
+Clone repository dan install dependencies:
 ```bash
 git clone https://github.com/revalinafa/pengolahan-citra-histogram.git
 cd pengolahan-citra-histogram
+pip install pillow matplotlib opencv-python python-pptx
 
